@@ -1,1 +1,9 @@
 # Simplified_AES
+* SIMPLIFIED AES ALGORITHM IMPLEMETED IN C
+* ENCODING AND DECODING
+* PLAIN TEXT:16 BITS
+* KEY:16 BITS
+
+![image](https://github.com/hossamadel7/Simplified_AES/assets/57440281/70064819-0317-462e-8119-009b1723eb38)
+
+
